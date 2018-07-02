@@ -1,0 +1,23 @@
+{
+  "name": "0_53_Machine_Learning",
+  "version": "1.0.0",
+  "description": "A simple demo of machine learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fancn21th/0_53_Machine_Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fancn21th/0_53_Machine_Learning/issues"
+  },
+  "homepage": "https://github.com/fancn21th/0_53_Machine_Learning#readme",
+  "dependencies": {
+    "brain.js": "^1.2.2"
+  }
+}
